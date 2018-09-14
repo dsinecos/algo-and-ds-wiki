@@ -28,3 +28,33 @@
 
 * [Flatten an array](https://github.com/dsinecos/algorithmsUdemy/blob/master/flattenArray.js)
   ##### [Tests](https://github.com/dsinecos/algorithmsUdemy/blob/master/test/testFlattenArray.js)
+
+* [Average Pair in an array](https://github.com/dsinecos/algorithm-practice/blob/master/averagePair.js)
+  ##### Approach
+  Multiple pointers
+  ##### [Tests](https://github.com/dsinecos/algorithm-practice/blob/master/tests/test-averagePair.js)
+
+* [Check for duplicates in an array](https://github.com/dsinecos/algorithm-practice/blob/master/checkDuplicates.js)
+  ##### Approach
+  Multiple pointers
+  ##### [Tests](https://github.com/dsinecos/algorithm-practice/blob/master/tests/test-checkDuplicates.js)
+
+* [Frequency counter for a string](https://github.com/dsinecos/algorithm-practice/blob/master/frequencyCounter.js)
+  ##### Approach
+  Generate a character map for the string
+  ##### [Tests](https://github.com/dsinecos/algorithm-practice/blob/master/tests/test-frequencyCounter.js)
+
+* [Check for subsequence in a string](https://github.com/dsinecos/algorithm-practice/blob/master/isSubsequence.js)
+  ##### Approach
+  Multiple pointers
+  ##### [Tests](https://github.com/dsinecos/algorithm-practice/blob/master/tests/test-isSubsequence.js)
+
+* [Check for subsequence in a string - 2](https://github.com/dsinecos/algorithm-practice/blob/68369f577691ef9129ef9df4ab854a28e6037388/isSubsequence.js)
+  ##### Approach
+  Multiple pointers
+  ##### [Tests](https://github.com/dsinecos/algorithm-practice/blob/68369f577691ef9129ef9df4ab854a28e6037388/tests/test-isSubsequence.js)
+
+* [Maximum sum of a subarray (of given length)](https://github.com/dsinecos/algorithm-practice/blob/master/maxSubArraySum.js)
+  ##### Approach
+  Multiple pointers
+  ##### [Tests](https://github.com/dsinecos/algorithm-practice/blob/master/tests/test-maxSubArraySum.js)
