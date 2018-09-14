@@ -30,9 +30,12 @@
   ##### [Tests](https://github.com/dsinecos/algorithmsUdemy/blob/master/test/testFlattenArray.js)
 
 [Average Pair in an array](https://github.com/dsinecos/algorithm-practice/blob/master/averagePair.js)
-  ##### Approach
-  Multiple pointers
-  ##### [Tests](https://github.com/dsinecos/algorithm-practice/blob/master/tests/test-averagePair.js)
+ 
+    **Approach**
+ 
+ Multiple pointers
+ 
+ [Tests](https://github.com/dsinecos/algorithm-practice/blob/master/tests/test-averagePair.js)
 
 [Check for duplicates in an array](https://github.com/dsinecos/algorithm-practice/blob/master/checkDuplicates.js)
   ##### Approach
