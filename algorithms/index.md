@@ -4,7 +4,7 @@
 
 ## Sorting Algorithms
 
-## Algorithm Challenges
+## [Algorithm Challenges](https://github.com/dsinecos/algo-and-ds-wiki/blob/master/algorithms/algorithms-list.md)
 
 ## Notes
 
