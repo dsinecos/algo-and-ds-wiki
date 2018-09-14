@@ -12,6 +12,7 @@
 | O(n2) | O(n2)   | O(n) |
 
 Worst case - Inversely sorted array
+
 Best case - Nearly sorted array
 
 ## Notes
