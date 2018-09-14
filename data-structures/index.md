@@ -2,12 +2,12 @@
 
 ## Data Structures
 
-### Linked-List
+* ### [Linked-List]()
 
-### HashTable
+* ### [HashTable]()
 
-### Binary Search Tree
+* ### [Binary Search Tree]()
 
 ## Notes
 
-### Comparison of various data structures
+* ### [Comparison of various data structures]()
