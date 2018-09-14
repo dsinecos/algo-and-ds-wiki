@@ -28,15 +28,3 @@
 
 * [Flatten an array](https://github.com/dsinecos/algorithmsUdemy/blob/master/flattenArray.js)
   ##### [Tests](https://github.com/dsinecos/algorithmsUdemy/blob/master/test/testFlattenArray.js)
-
-### [AlgorithmChallenge 1]()
-
-### Algorithm Challenge 1
-
-#### Approach/ Notes
-
-#### Code
-
-#### Tests
-
-#### References
