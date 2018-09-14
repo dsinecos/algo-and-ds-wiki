@@ -1,10 +1,12 @@
 # Contents
 
-## Linked-List
+## Data Structures
 
-## HashTable
+### Linked-List
 
-## Binary Search Tree
+### HashTable
+
+### Binary Search Tree
 
 ## Notes
 
