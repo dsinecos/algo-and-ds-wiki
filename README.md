@@ -2,7 +2,7 @@
 
 ## Algorithms
 
-* ### [Searching Algorithms](https://github.com/dsinecos/algo-and-ds-wiki/blob/master/algorithms/searching-algorithms-list.md)
+* ### Searching Algorithms
 
 * ### [Sorting Algorithms](https://github.com/dsinecos/algo-and-ds-wiki/blob/master/algorithms/sorting-algorithms-list.md)
 
