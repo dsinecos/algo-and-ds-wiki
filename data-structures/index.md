@@ -2,12 +2,12 @@
 
 ## Data Structures
 
-* ### [Linked-List]()
+* ### Linked-List]
 
-* ### [HashTable]()
+* ### HashTable
 
-* ### [Binary Search Tree]()
+* ### Binary Search Tree
 
 ## Notes
 
-* ### [Performance of Arrays and Objects in Javascript]()
+* ### [Performance of Arrays and Objects in Javascript](https://github.com/dsinecos/algo-and-ds-wiki/blob/master/data-structures/notes/array-objects-performance-javascript.md)
