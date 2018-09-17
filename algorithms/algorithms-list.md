@@ -69,3 +69,14 @@
   
   Multiple pointers
 * [Tests](https://github.com/dsinecos/algorithm-practice/blob/master/tests/test-maxSubArraySum.js)
+
+#### [Find the minimum length of a contiguous subarray greater than/ equal to a given sum]()
+
+* **Approach**
+
+  Sliding window
+  - Store minimum window length
+  - Resize window length
+  - Move window forward
+
+* [Tests]()
