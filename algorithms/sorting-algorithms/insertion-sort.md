@@ -5,6 +5,8 @@
 ## [Implementation](https://github.com/dsinecos/sorting-algorithms/blob/master/insertion-sort.js)
    [Tests](https://github.com/dsinecos/sorting-algorithms/blob/master/tests/test-insertion-sort.js)
 
+![insertion-sort](/assets/insertion-sort.svg)
+
 ## Performance
 
 | Worst | Average | Best |
